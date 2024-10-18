@@ -1,0 +1,12 @@
+.card {
+   max-width: 300px;
+}
+
+.cardContent {
+   display: flex;
+   justify-content: space-between;
+}
+
+.link {
+   text-decoration: none;
+}
